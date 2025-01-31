@@ -1,6 +1,6 @@
 
 # データアナリスト/ データ分析
-[履歴書](https://github.com/naokoi0408/Portfolio/blob/main/assets/Naoko%20Ishibashi%20Resume%20Data%20Analyst.pdf)
+[履歴書](https://github.com/naokoi0408/Portfolio.Japanese-ver/blob/main/assets/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.png)
 #### 技術スキル: R, SQL, Java, Python
 
 ## 学歴
