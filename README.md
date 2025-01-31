@@ -20,7 +20,7 @@
   
 ## プロジェクト
 ### ベースRによる回帰分析
-[公開資料](https://github.com/naokoi0408/Final.Data310/blob/main/Regression%20Analysis%20/Regression_Analysis%20.pdf)
+[公開資料](https://github.com/naokoi0408/Portfolio.Japanese-ver/blob/main/assets/%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%20%20Regression%20Analysis%20%20.pdf)
 
 2020年米国全国選挙調査データを対象に、民主党に対する有権者の感情を評価するための回帰分析を実施。サンプリング理論を適用し、データのクリーニングと視覚化を行い、結果を要約。
 - スキル: R、統計、データビジュアライゼーション
