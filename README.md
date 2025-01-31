@@ -43,7 +43,7 @@
 Leafletウィジェットを用いたShinyアプリケーションを開発。フィラデルフィアの学校とLEAデータセットを対象に、出席率に基づくランキングを表示。SQLとRの統合による高度な地理分析を実現。
 - スキル: R、Shiny、データビジュアライゼーション、UI/UX
 
-![R Shiny](/assets/Regression_Table.png)
+![R Shiny](/assets/学校ランキングアプリの説明.png)
 
 
 ### SQLデータプロジェクト
