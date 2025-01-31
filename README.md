@@ -38,7 +38,7 @@
 
 
 ### R-Shinyアプリ開発
-[公開資料](https://github.com/naokoi0408/School_Rank_App/blob/main/School_Rank_App/School_Rank_App_Description.pdf)
+[公開資料](https://github.com/naokoi0408/Portfolio.Japanese-ver/blob/main/assets/%E5%AD%A6%E6%A0%A1%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%AF%E3%82%99%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E3%81%AE%E8%AA%AC%E6%98%8E.pdf)
 
 Leafletウィジェットを用いたShinyアプリケーションを開発。フィラデルフィアの学校とLEAデータセットを対象に、出席率に基づくランキングを表示。SQLとRの統合による高度な地理分析を実現。
 - スキル: R、Shiny、データビジュアライゼーション、UI/UX
