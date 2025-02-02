@@ -65,7 +65,7 @@ Leafletウィジェットを用いたShinyアプリケーションを開発。�
 ![Hypothesis](assets/仮説検定と推定量分析.png)
 
 ### データクリーニングと変換
-[公開資料](https://github.com/naokoi0408/Cleaning_And_Transforming_Data/blob/main/Cleaning_And_Transforming_Data/Cleaning_Data.pdf)
+[公開資料](https://github.com/naokoi0408/Portfolio.Japanese/blob/main/assets/%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%AF%E3%82%99.pdf)
 
 このプロジェクトでは、dplyrを用いたデータクリーニングと分析に取り組みました。具体的な作業には、キャンセルされていないフライトの抽出、遅延パターンの分析、遅延が多い航空会社や目的地の特定が含まれます。追加のタスクとして、データの偏りを考慮しながら野球の打率を調査しました。
 - スキル: R、SQL、データ整形、データセットのクレンジング
