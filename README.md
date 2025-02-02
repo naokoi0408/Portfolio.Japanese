@@ -48,7 +48,7 @@ Leafletウィジェットを用いたShinyアプリケーションを開発。�
 
 
 ### SQLデータプロジェクト
-[公開資料](https://github.com/naokoi0408/SQL/blob/main/SQL/SQL.RStudio.pdf)
+[公開資料](https://github.com/naokoi0408/Portfolio.Japanese/blob/main/assets/SQL_Japanese%20ver.pdf)
 
 企業規模別の年間中央値給与を比較分析。社員数1000人規模の企業では$250,000～$260,000、さらに大規模な企業では$268,000～$275,000と、規模が大きくなるにつれて給与が増加する傾向を発見。
 - スキル: SQL、データベース管理、データ変換
