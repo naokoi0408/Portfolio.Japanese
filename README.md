@@ -1,5 +1,5 @@
 
-#　石橋　尚子（イシバシ　ナオコ）
+# 石橋　尚子（イシバシ　ナオコ）
 # データアナリスト/ データ分析
 [職務経歴書](https://github.com/naokoi0408/Portfolio.Japanese-ver/blob/main/assets/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8.pdf)
 #### 技術スキル: R, SQL, Java, Python
