@@ -73,7 +73,7 @@ Leafletウィジェットを用いたShinyアプリケーションを開発。�
 ![Data_Cleaning_and_Transformation](assets/データクリーニング.png)
 
 ### 確率変数分析
-[公開資料](https://github.com/naokoi0408/RandomVariables/blob/main/RandomVariables.file/RandomVariables..pdf)
+[公開資料](https://github.com/naokoi0408/Portfolio.Japanese/blob/main/assets/%E7%A2%BA%E7%8E%87%E5%A4%89%E6%95%B0%E5%88%86%E6%9E%90.pdf)
 
 このプロジェクトでは、Rを用いて一連の統計解析とシミュレーションを行いました。正規分布の確率と信頼区間を計算し、サイコロのロールをシミュレーションしてヤッツィに関連する確率を探求し、コイン投げのデータを分析して連続した結果の長さを推定しました。この作業では、正規分布の累積分布関数（CDF）やモンテカルロシミュレーションなどの統計手法を適用し、有意義な洞察を導き出し、結果をグラフで可視化しました。このプロジェクトは、データ分析、統計モデル作成、シミュレーションのスキルを示しています。
 - スキル:　データ分析、統計モデリング、シミュレーション
