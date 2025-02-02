@@ -70,7 +70,7 @@ Leafletウィジェットを用いたShinyアプリケーションを開発。�
 このプロジェクトでは、dplyrを用いたデータクリーニングと分析に取り組みました。具体的な作業には、キャンセルされていないフライトの抽出、遅延パターンの分析、遅延が多い航空会社や目的地の特定が含まれます。追加のタスクとして、データの偏りを考慮しながら野球の打率を調査しました。
 - スキル: R、SQL、データ整形、データセットのクレンジング
 
-![Data_Cleaning_and_Transformation](assets/Data_Transformation.png)
+![Data_Cleaning_and_Transformation](assets/データクリーニング.png)
 
 ### 確率変数分析
 [公開資料](https://github.com/naokoi0408/RandomVariables/blob/main/RandomVariables.file/RandomVariables..pdf)
